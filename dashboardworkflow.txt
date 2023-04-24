@@ -1,0 +1,20 @@
+                            Dashboard - Angular Project Workflow
+
+1. create project : ng new admin-dashboard 
+2. run project : ng s 
+3. install / add 3rd party libraries to complete project
+    -install angular material : ng add @angular/material
+        -choose rebuild theme
+        -enable typography
+        -enable animation
+4. delete all contens in Appcomponent.html 
+5. check 3rd party libraries are wroking in project or not
+6. generate component : ng g c component_name
+        - header
+        - footer
+        - sidebar
+        - dashboard
+            - card
+            - area-chart
+            - table
+            - pie-chart
